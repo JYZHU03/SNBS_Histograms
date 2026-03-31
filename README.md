@@ -6,4 +6,4 @@
 
 
 # max_final_freq_hist
-![SNBS_Histograms](./SNBS_Histograms.png)
+![max_final_freq_hist](./max_final_freq_hist.png)
